@@ -1,0 +1,6 @@
+{
+  "name": "FitPulse AI",
+  "description": "Intelligent fitness companion with custom AI workout plans, real-time exercise logging, macro tracking, and personal AI coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
